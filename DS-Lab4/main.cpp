@@ -7,7 +7,7 @@ Description: This lab is an example of how a stack can be reversed using recursi
 */
 
 #include <iostream>
-#include "C:\Users\THOMS4\Documents\Data Structures\DS-Lab3\DS-Lab3\stack.h"
+#include "stack - Copy.h"
 
 using namespace std;
 

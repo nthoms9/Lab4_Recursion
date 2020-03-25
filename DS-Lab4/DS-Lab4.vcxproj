@@ -123,11 +123,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\DS-Lab3\DS-Lab3\stack.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="stack - Copy.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\DS-Lab3\DS-Lab3\stack.h" />
+    <ClInclude Include="stack - Copy.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
